@@ -1,0 +1,116 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.2)  17 OCT 2022 11:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./caratula.tex
+(caratula.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	\begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+! Undefined control sequence.
+l.3 		{\LARGE
+             \textbf{Universidad Nacional San Cristóbal de Huamanga}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (60.28577pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 Universidad 
+ []
+
+
+Overfull \hbox (18.4235pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 Na- 
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 cional 
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 San 
+ []
+
+
+Overfull \hbox (46.16779pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 Crist^^Sobal 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (24.81235pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 Hua- 
+ []
+
+
+Overfull \hbox (32.90256pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/bx/n/10 manga 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \end{titlepage}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./caratula.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 23 strings out of 478338
+ 440 string characters out of 2836700
+ 297722 words of memory out of 3000000
+ 18553 multiletter control sequences out of 15000+600000
+ 469567 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 15i,1n,12p,122b,127s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

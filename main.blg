@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: caratula.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: cuerpo.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliografia.bib
+Warning--entry type for "etitudela2016" isn't style-file defined
+--line 15 of file bibliografia.bib
+Warning--entry type for "martinez" isn't style-file defined
+--line 33 of file bibliografia.bib
+You're missing a field name---line 43 of file bibliografia.bib
+ :  
+ :  {https://www.uv.es/uvweb/fisica/es/catalogo-demos/electromagnetismo/cuerpos-cargados-electroscopio-1286053998309/DemoExp.html?id=1286104834696#:~:text=La%20bolita%20del%20electroscopio%20adquiere%20carga%20neta%20negativa%20(electrones%20atra%C3%ADdos,gire%2C%20separ%C3%A1ndose%20del%20soporte%20central},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in etitudela2016
+Warning--empty year in etitudela2016
+Warning--empty year in electrostática
+Warning--empty publisher in electrostática
+Warning--empty year in martinez
+Warning--empty year in guzman2007
+Warning--empty publisher in guzman2007
+You've used 4 entries,
+            1935 wiz_defined-function locations,
+            486 strings with 4030 characters,
+and the built_in function-call counts, 1074 in all, are:
+= -- 97
+> -- 37
+< -- 2
++ -- 12
+- -- 12
+* -- 76
+:= -- 195
+add.period$ -- 7
+call.type$ -- 4
+change.case$ -- 24
+chr.to.int$ -- 4
+cite$ -- 12
+duplicate$ -- 48
+empty$ -- 80
+format.name$ -- 15
+if$ -- 202
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 18
+num.names$ -- 9
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 26
+quote$ -- 0
+skip$ -- 29
+stack$ -- 0
+substring$ -- 49
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 7
+while$ -- 6
+width$ -- 0
+write$ -- 36
+(There was 1 error message)
